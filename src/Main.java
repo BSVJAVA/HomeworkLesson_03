@@ -95,5 +95,6 @@ public class Main {
             }
         }
         System.out.println("Большее число = " + maxNumber);
+        //Выполнено домашнее задание №3
     }
 }
